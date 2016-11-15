@@ -1,0 +1,5 @@
+enter program hello world:
+to accept username mobile address:
+to printf first 100 numbers:
+to print first 100 odd num
+to  even 100:

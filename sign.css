@@ -1,0 +1,11 @@
+body{
+margin:0 auto;
+background-image:url("./fish.jpg");
+background-image:no-repeat!important;
+}
+.s1{
+	width:500px !important;
+	height:400px !important;
+	text-align:center !important;
+	margin:0 auto!important;
+}

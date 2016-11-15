@@ -1,0 +1,13 @@
+<main>
+<section>
+<h2>WE ARE PLEASED TO WELCOME YOU</h2>
+<article>
+<p> Dogs and Puppies for sales.we have different breeds of dogs with special Discounts</p>
+</article>
+</section>
+<!---nav--->
+<div class="col-small-6">
+<div class="navbar navbar-default row">
+<ul class="nav navbar-nav">
+</div>
+</div>
